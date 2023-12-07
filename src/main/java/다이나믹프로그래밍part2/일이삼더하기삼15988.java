@@ -1,4 +1,4 @@
-package 다이나믹프로그래밍part1;
+package 다이나믹프로그래밍part2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
